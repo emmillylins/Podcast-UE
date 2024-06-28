@@ -1,4 +1,4 @@
-# Recuperação Unidade de Exntensão 
+# Recuperação Unidade de Extensão 
 
 ### Introdução
 Esse podcast planeja explorar como a plataforma ServiceNow pode revolucionar a forma como as universidades gerenciam o processo de matrículas dos estudantes.  
